@@ -1,0 +1,6 @@
+{
+  "name": "Learn C++",
+  "description": "Learn C++ by Awiskar Acharya — The ultimate advanced C++ learning platform with interactive IDE, memory visualizer, STL lab, OOP builder, challenges, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
